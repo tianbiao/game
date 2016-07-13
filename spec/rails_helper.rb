@@ -10,7 +10,7 @@ require 'rspec/rails'
 require 'simplecov'
 require 'simplecov-rcov'
 
-SimpleCov.minimum_coverage 100
+SimpleCov.minimum_coverage 50
 SimpleCov.start 'rails'
 
 
